@@ -1,0 +1,54 @@
+
+body{
+margin: 0%;
+font-family: 'Lobster', cursive;
+}
+h1{
+font-size: 50px;
+}
+h2{
+font-size: 30px;
+}
+.highlight{
+color: red;
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+text-align: middel;
+}
+.half-width img{
+width: 100%;
+}
+section{
+height: 800px;
+}
+.top-part{
+background-repeat: no-repeat;
+background-image: url(images/header-bg.png);
+margin: 2px solid red;
+height: 600px;
+}
+.last-class{
+    width: 33%;
+    float: left;
+}
+.last-class img{
+    width: 100%;
+}
+#amar{
+text-align: center;
+}
+#sei{
+    text-align: center;
+}
+.--00{
+    color: blue;
+}
+.document{
+    color: burlywood;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif 
+    
+}
